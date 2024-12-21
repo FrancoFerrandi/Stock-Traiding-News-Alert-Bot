@@ -50,7 +50,7 @@ This bot is designed to perform the following tasks automatically:
 
 1. **Clone the repository:**
 ```
-git clone <repository-url>
+git clone https://github.com/FrancoFerrandi/Stock-Traiding-News-Alert-Bot.git
 cd Stock-Traiding-News-Alert-Bot
 ```
 
